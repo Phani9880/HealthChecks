@@ -1,0 +1,51 @@
+- name: Check latest files in directory
+  hosts: localhost
+  gather_facts: no
+  tasks:
+    - name: Check if bookBulkProcessor process is running
+      ansible.builtin.command: pgrep -f "bookBulkProcessor"
+      register: bookBulkProcessor_check
+      ignore_errors: yes
+
+    - name: Check if OnlineRrtGenerator process is running
+      ansible.builtin.command: pgrep -f "OnlineReportGenerator"
+      register: OnlineReportGenerator_check
+      ignore_errors: yes
+
+    - name: Report if bookBulkProcessor process is running
+      debug:
+        msg: "The bookBulkProcessor process is running!"
+      when: bookBulkProcessor_check.stdout != ""
+
+    - name: Report if OnlineRrtGenerator process is running
+      debug:
+        msg: "The OnlineReportGenerator process is running!"
+      when: OnlineReportGenerator_check.stdout != ""
+
+    - name: Report if bookBulkProcessor is not running
+      debug:
+        msg: "The bookBulkProcessor process is NOT running."
+      when: bookBulkProcessor_check.stdout == ""
+
+    - name: Report if OnlineReportGenerator is not running
+      debug:
+        msg: "The OnlineReportGenerator process is NOT running."
+      when: OnlineReportGenerator_check.stdout == ""
+
+    # Step 4: Check if BulkProcessor log file contains errors
+    - name: Check BulkProcessor log for errors
+      ansible.builtin.shell: "cat /app/apps/background-processors/BulkProcessor/shareinfo.log | grep -i 'error'"
+      register: log_check
+      ignore_errors: yes
+
+    # Step 5: Report if errors were found in the log file
+    - name: Report if errors are found in BulkProcessor log
+      debug:
+        msg: "Errors found in the log file: {{ log_check.stdout }}"
+      when: log_check.stdout != ""
+
+    # Step 6: Report if no errors are found in the log file
+    - name: Report if no errors are found in BulkProcessor log
+      debug:
+        msg: "No errors found in the BulkProcessor log."
+      when: log_check.stdout == ""

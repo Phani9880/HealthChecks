@@ -1,0 +1,11 @@
+- name: Check latest files in directory
+  hosts: localhost
+  gather_facts: no
+  tasks:
+    - name: Check EDAA files
+      shell: "ls -altrh /home/Phani/ --time-style=+%D | grep $(date +%D)"
+      register: "files"
+    
+    - name: Latest files
+      debug:
+       msg: "{{ files.stdout_lines }}"
