@@ -1,0 +1,1071 @@
+[2024-11-04 05:09:12,958] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730696952942 Record Key:202411040000000001 
+[2024-11-04 05:09:12,959] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000001 Subscritpion_number:115100112000013 
+[2024-11-04 05:09:12,961] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100112000013 
+[2024-11-04 05:09:12,961] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1025360775 
+[2024-11-04 05:09:12,970] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :115100112000013 
+[2024-11-04 05:09:12,972] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :115100112000013 
+[2024-11-04 05:09:12,987] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000001 Subscription_number:115100112000013 
+[2024-11-04 05:09:12,987] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000001 Subscription_number:115100112000013 
+[2024-11-04 05:09:12,994] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 05:09:12,994] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 05:09:12,996] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000001 Subscription_number:115100112000013 
+[2024-11-04 05:09:12,998] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000001 Subscription_number:115100112000013 
+[2024-11-04 05:09:13,001] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730696952942 Record Key:202411040000000001 
+[2024-11-04 05:11:11,631] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730697071603 Record Key:202411040000000002 
+[2024-11-04 05:12:13,926] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730697133914 Record Key:202411040000000003 
+[2024-11-04 05:12:13,926] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000003 Subscritpion_number:115100113000017 
+[2024-11-04 05:12:13,926] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000017 
+[2024-11-04 05:12:13,927] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 05:12:13,935] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730697133914 Record Key:202411040000000003 
+[2024-11-04 05:14:55,636] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730697295629 Record Key:202411040000000004 
+[2024-11-04 05:14:55,636] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000004 Subscritpion_number:115100113000018 
+[2024-11-04 05:14:55,638] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000018 
+[2024-11-04 05:14:55,638] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 05:14:55,648] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730697295629 Record Key:202411040000000004 
+[2024-11-04 05:19:42,883] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730697582850 Record Key:202411040000000005 
+[2024-11-04 05:21:11,380] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730697671373 Record Key:202411040000000006 
+[2024-11-04 05:21:11,380] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000006 Subscritpion_number:115100113000019 
+[2024-11-04 05:21:11,381] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000019 
+[2024-11-04 05:21:11,381] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1025360775 
+[2024-11-04 05:21:11,386] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :115100113000019 
+[2024-11-04 05:21:11,387] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :115100113000019 
+[2024-11-04 05:21:11,397] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000006 Subscription_number:115100113000019 
+[2024-11-04 05:21:11,397] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000006 Subscription_number:115100113000019 
+[2024-11-04 05:21:11,400] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 05:21:11,400] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 05:21:11,402] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000006 Subscription_number:115100113000019 
+[2024-11-04 05:21:11,403] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000006 Subscription_number:115100113000019 
+[2024-11-04 05:21:11,405] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730697671373 Record Key:202411040000000006 
+[2024-11-04 05:23:19,317] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730697799296 Record Key:202411040000000007 
+[2024-11-04 05:27:53,802] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730698073797 Record Key:202411040000000008 
+[2024-11-04 05:27:53,802] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000008 Subscritpion_number:115100112000022 
+[2024-11-04 05:27:53,804] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100112000022 
+[2024-11-04 05:27:53,804] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1025360775 
+[2024-11-04 05:27:53,813] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730698073797 Record Key:202411040000000008 
+[2024-11-04 06:06:55,085] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730700415075 Record Key:202411040000000009 
+[2024-11-04 06:06:55,085] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000009 Subscritpion_number:115100113000020 
+[2024-11-04 06:06:55,086] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000020 
+[2024-11-04 06:06:55,086] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 06:06:55,091] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :115100113000020 
+[2024-11-04 06:06:55,093] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :115100113000020 
+[2024-11-04 06:06:55,106] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000009 Subscription_number:115100113000020 
+[2024-11-04 06:06:55,106] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000009 Subscription_number:115100113000020 
+[2024-11-04 06:06:55,110] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 06:06:55,110] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 06:06:55,112] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000009 Subscription_number:115100113000020 
+[2024-11-04 06:06:55,114] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000009 Subscription_number:115100113000020 
+[2024-11-04 06:06:55,117] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730700415075 Record Key:202411040000000009 
+[2024-11-04 06:08:34,159] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730700514131 Record Key:202411040000000010 
+[2024-11-04 06:09:33,504] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730700573497 Record Key:202411040000000011 
+[2024-11-04 06:09:33,504] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000011 Subscritpion_number:115100113000021 
+[2024-11-04 06:09:33,506] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000021 
+[2024-11-04 06:09:33,506] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 06:09:33,515] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730700573497 Record Key:202411040000000011 
+[2024-11-04 06:11:33,159] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730700693151 Record Key:202411040000000012 
+[2024-11-04 06:11:33,159] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000012 Subscritpion_number:115100113000022 
+[2024-11-04 06:11:33,161] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000022 
+[2024-11-04 06:11:33,161] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 06:11:33,167] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730700693151 Record Key:202411040000000012 
+[2024-11-04 06:36:53,140] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730702213130 Record Key:202411040000000013 
+[2024-11-04 06:36:53,140] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000013 Subscritpion_number:115100112000024 
+[2024-11-04 06:36:53,142] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100112000024 
+[2024-11-04 06:36:53,142] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 06:36:53,147] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :115100112000024 
+[2024-11-04 06:36:53,149] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :115100112000024 
+[2024-11-04 06:36:53,163] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000013 Subscription_number:115100112000024 
+[2024-11-04 06:36:53,163] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000013 Subscription_number:115100112000024 
+[2024-11-04 06:36:53,169] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 06:36:53,169] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 06:36:53,171] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000013 Subscription_number:115100112000024 
+[2024-11-04 06:36:53,173] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000013 Subscription_number:115100112000024 
+[2024-11-04 06:36:53,176] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730702213130 Record Key:202411040000000013 
+[2024-11-04 07:06:01,670] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730703961663 Record Key:202411040000000014 
+[2024-11-04 07:06:01,670] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000014 Subscritpion_number:117400113000005 
+[2024-11-04 07:06:01,672] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117400113000005 
+[2024-11-04 07:06:01,672] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1025360775 
+[2024-11-04 07:06:01,678] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117400113000005 
+[2024-11-04 07:06:01,678] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117400113000005 
+[2024-11-04 07:06:01,706] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730703961663 Record Key:202411040000000014 
+[2024-11-04 07:06:51,902] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730704011895 Record Key:202411040000000015 
+[2024-11-04 07:06:51,902] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000015 Subscritpion_number:117400112000004 
+[2024-11-04 07:06:51,903] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117400112000004 
+[2024-11-04 07:06:51,903] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 07:06:51,907] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117400112000004 
+[2024-11-04 07:06:51,908] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117400112000004 
+[2024-11-04 07:06:51,925] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730704011895 Record Key:202411040000000015 
+[2024-11-04 07:09:41,836] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730704181803 Record Key:202411040000000016 
+[2024-11-04 07:20:05,704] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730704805696 Record Key:202411040000000017 
+[2024-11-04 07:20:05,704] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000017 Subscritpion_number:115100113000023 
+[2024-11-04 07:20:05,706] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000023 
+[2024-11-04 07:20:05,706] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 07:20:05,712] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :115100113000023 
+[2024-11-04 07:20:05,713] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :115100113000023 
+[2024-11-04 07:20:05,722] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000017 Subscription_number:115100113000023 
+[2024-11-04 07:20:05,722] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000017 Subscription_number:115100113000023 
+[2024-11-04 07:20:05,731] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 07:20:05,731] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 07:20:05,732] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000017 Subscription_number:115100113000023 
+[2024-11-04 07:20:05,734] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000017 Subscription_number:115100113000023 
+[2024-11-04 07:20:05,736] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730704805696 Record Key:202411040000000017 
+[2024-11-04 07:21:27,310] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730704887286 Record Key:202411040000000018 
+[2024-11-04 07:21:34,235] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730704894228 Record Key:202411040000000019 
+[2024-11-04 07:21:34,235] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000019 Subscritpion_number:115100113000024 
+[2024-11-04 07:21:34,236] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000024 
+[2024-11-04 07:21:34,236] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 07:21:34,242] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730704894228 Record Key:202411040000000019 
+[2024-11-04 07:58:37,601] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730707117539 Record Key:202411040000000001 
+[2024-11-04 08:06:21,348] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730707581341 Record Key:202411040000000002 
+[2024-11-04 08:06:21,348] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000002 Subscritpion_number:117600112000004 
+[2024-11-04 08:06:21,350] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600112000004 
+[2024-11-04 08:06:21,350] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 08:06:21,356] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117600112000004 
+[2024-11-04 08:06:21,357] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117600112000004 
+[2024-11-04 08:06:21,370] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000002 Subscription_number:117600112000004 
+[2024-11-04 08:06:21,370] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000002 Subscription_number:117600112000004 
+[2024-11-04 08:06:21,374] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 08:06:21,374] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 08:06:21,376] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000002 Subscription_number:117600112000004 
+[2024-11-04 08:06:21,377] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000002 Subscription_number:117600112000004 
+[2024-11-04 08:06:21,380] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730707581341 Record Key:202411040000000002 
+[2024-11-04 08:07:27,590] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730707647582 Record Key:202411040000000003 
+[2024-11-04 08:07:27,590] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000003 Subscritpion_number:117600112000005 
+[2024-11-04 08:07:27,591] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600112000005 
+[2024-11-04 08:07:27,591] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1025360775 
+[2024-11-04 08:07:27,595] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117600112000005 
+[2024-11-04 08:07:27,596] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117600112000005 
+[2024-11-04 08:07:27,605] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000003 Subscription_number:117600112000005 
+[2024-11-04 08:07:27,605] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000003 Subscription_number:117600112000005 
+[2024-11-04 08:07:27,609] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 08:07:27,609] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 08:07:27,611] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000003 Subscription_number:117600112000005 
+[2024-11-04 08:07:27,613] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000003 Subscription_number:117600112000005 
+[2024-11-04 08:07:27,616] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730707647582 Record Key:202411040000000003 
+[2024-11-04 08:41:17,853] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730709677846 Record Key:202411040000000004 
+[2024-11-04 08:41:17,854] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000004 Subscritpion_number:115100113000025 
+[2024-11-04 08:41:17,855] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000025 
+[2024-11-04 08:41:17,855] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 08:41:17,864] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730709677846 Record Key:202411040000000004 
+[2024-11-04 08:43:07,555] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730709787547 Record Key:202411040000000005 
+[2024-11-04 08:43:07,555] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000005 Subscritpion_number:115100113000026 
+[2024-11-04 08:43:07,557] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000026 
+[2024-11-04 08:43:07,557] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 08:43:07,562] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :115100113000026 
+[2024-11-04 08:43:07,564] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :115100113000026 
+[2024-11-04 08:43:07,573] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000005 Subscription_number:115100113000026 
+[2024-11-04 08:43:07,573] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000005 Subscription_number:115100113000026 
+[2024-11-04 08:43:07,579] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 08:43:07,579] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 08:43:07,581] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000005 Subscription_number:115100113000026 
+[2024-11-04 08:43:07,583] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000005 Subscription_number:115100113000026 
+[2024-11-04 08:43:07,585] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730709787547 Record Key:202411040000000005 
+[2024-11-04 08:58:31,180] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730710711150 Record Key:202411040000000006 
+[2024-11-04 10:29:55,769] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730716195720 Record Key:202411040000000001 
+[2024-11-04 10:42:45,237] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730716965231 Record Key:202411040000000002 
+[2024-11-04 10:42:45,237] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000002 Subscritpion_number:107900911000013 
+[2024-11-04 10:42:45,239] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...107900911000013 
+[2024-11-04 10:42:45,239] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:7001392120 
+[2024-11-04 10:42:45,252] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730716965231 Record Key:202411040000000002 
+[2024-11-04 11:00:15,979] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730718015930 Record Key:202411040000000007 
+[2024-11-04 12:25:09,188] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730723109153 Record Key:202411040000000008 
+[2024-11-04 12:28:13,550] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730723293542 Record Key:202411040000000009 
+[2024-11-04 12:28:13,550] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000009 Subscritpion_number:118200313000007 
+[2024-11-04 12:28:13,552] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118200313000007 
+[2024-11-04 12:28:13,552] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1092279536 
+[2024-11-04 12:28:13,560] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730723293542 Record Key:202411040000000009 
+[2024-11-04 12:30:22,461] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730723422454 Record Key:202411040000000010 
+[2024-11-04 12:30:22,461] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000010 Subscritpion_number:115100313000037 
+[2024-11-04 12:30:22,462] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100313000037 
+[2024-11-04 12:30:22,462] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1092279536 
+[2024-11-04 12:30:22,470] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :115100313000037 
+[2024-11-04 12:30:22,471] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :115100313000037 
+[2024-11-04 12:30:22,482] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000010 Subscription_number:115100313000037 
+[2024-11-04 12:30:22,483] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000010 Subscription_number:115100313000037 
+[2024-11-04 12:30:22,489] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 12:30:22,489] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 12:30:22,492] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000010 Subscription_number:115100313000037 
+[2024-11-04 12:30:22,503] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000010 Subscription_number:115100313000037 
+[2024-11-04 12:30:22,506] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730723422454 Record Key:202411040000000010 
+[2024-11-04 12:30:53,397] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730723453339 Record Key:202411040000000011 
+[2024-11-04 12:31:33,423] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730723493418 Record Key:202411040000000012 
+[2024-11-04 12:31:33,423] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000012 Subscritpion_number:115100313000038 
+[2024-11-04 12:31:33,425] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100313000038 
+[2024-11-04 12:31:33,425] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1092279536 
+[2024-11-04 12:31:33,428] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :115100313000038 
+[2024-11-04 12:31:33,429] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :115100313000038 
+[2024-11-04 12:31:33,437] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000012 Subscription_number:115100313000038 
+[2024-11-04 12:31:33,437] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000012 Subscription_number:115100313000038 
+[2024-11-04 12:31:33,440] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 12:31:33,440] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 12:31:33,444] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000012 Subscription_number:115100313000038 
+[2024-11-04 12:31:33,445] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000012 Subscription_number:115100313000038 
+[2024-11-04 12:31:33,448] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730723493418 Record Key:202411040000000012 
+[2024-11-04 14:04:54,551] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730729094533 Record Key:202411040000000013 
+[2024-11-04 14:04:54,551] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000013 Subscritpion_number:118400112000004 
+[2024-11-04 14:04:54,557] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118400112000004 
+[2024-11-04 14:04:54,557] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1020063960 
+[2024-11-04 14:04:54,576] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730729094533 Record Key:202411040000000013 
+[2024-11-04 14:08:09,322] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730729289314 Record Key:202411040000000014 
+[2024-11-04 14:08:09,322] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000014 Subscritpion_number:118400112000005 
+[2024-11-04 14:08:09,323] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118400112000005 
+[2024-11-04 14:08:09,323] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 14:08:09,328] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118400112000005 
+[2024-11-04 14:08:09,330] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118400112000005 
+[2024-11-04 14:08:09,384] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000014 Subscription_number:118400112000005 
+[2024-11-04 14:08:09,384] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000014 Subscription_number:118400112000005 
+[2024-11-04 14:08:09,426] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 14:08:09,426] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 14:08:09,431] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000014 Subscription_number:118400112000005 
+[2024-11-04 14:08:09,432] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000014 Subscription_number:118400112000005 
+[2024-11-04 14:08:09,435] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730729289314 Record Key:202411040000000014 
+[2024-11-04 14:08:59,467] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730729339461 Record Key:202411040000000015 
+[2024-11-04 14:08:59,467] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000015 Subscritpion_number:118400112000006 
+[2024-11-04 14:08:59,468] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118400112000006 
+[2024-11-04 14:08:59,468] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1025360775 
+[2024-11-04 14:08:59,471] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118400112000006 
+[2024-11-04 14:08:59,472] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118400112000006 
+[2024-11-04 14:08:59,488] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000015 Subscription_number:118400112000006 
+[2024-11-04 14:08:59,488] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000015 Subscription_number:118400112000006 
+[2024-11-04 14:08:59,574] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 14:08:59,574] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 14:08:59,581] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000015 Subscription_number:118400112000006 
+[2024-11-04 14:08:59,583] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000015 Subscription_number:118400112000006 
+[2024-11-04 14:08:59,585] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730729339461 Record Key:202411040000000015 
+[2024-11-04 14:14:14,163] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730729654155 Record Key:202411040000000003 
+[2024-11-04 14:14:14,163] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000003 Subscritpion_number:115100513000037 
+[2024-11-04 14:14:14,165] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100513000037 
+[2024-11-04 14:14:14,166] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1038012157 
+[2024-11-04 14:14:14,178] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730729654155 Record Key:202411040000000003 
+[2024-11-04 14:15:52,174] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730729752169 Record Key:202411040000000004 
+[2024-11-04 14:15:52,174] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000004 Subscritpion_number:115100513000038 
+[2024-11-04 14:15:52,175] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100513000038 
+[2024-11-04 14:15:52,175] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1092279536 
+[2024-11-04 14:15:52,180] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :115100513000038 
+[2024-11-04 14:15:52,181] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :115100513000038 
+[2024-11-04 14:15:52,182] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Found Duplicate Check Dup Subscription :115100513000038 
+[2024-11-04 14:15:52,190] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730729752169 Record Key:202411040000000004 
+[2024-11-04 14:18:34,518] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730729914503 Record Key:202411040000000005 
+[2024-11-04 14:25:42,910] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730730342897 Record Key:202411040000000006 
+[2024-11-04 14:27:23,140] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730730443122 Record Key:202411040000000007 
+[2024-11-04 14:33:33,227] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730730813221 Record Key:202411040000000016 
+[2024-11-04 14:33:33,227] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000016 Subscritpion_number:118400313000005 
+[2024-11-04 14:33:33,229] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118400313000005 
+[2024-11-04 14:33:33,229] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-04 14:33:33,238] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730730813221 Record Key:202411040000000016 
+[2024-11-04 14:36:25,682] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730730985677 Record Key:202411040000000017 
+[2024-11-04 14:36:25,682] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000017 Subscritpion_number:118400312000004 
+[2024-11-04 14:36:25,683] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118400312000004 
+[2024-11-04 14:36:25,683] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1059242063 
+[2024-11-04 14:36:25,688] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118400312000004 
+[2024-11-04 14:36:25,690] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118400312000004 
+[2024-11-04 14:36:25,709] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000017 Subscription_number:118400312000004 
+[2024-11-04 14:36:25,709] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000017 Subscription_number:118400312000004 
+[2024-11-04 14:36:25,715] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 14:36:25,715] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 14:36:25,718] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000017 Subscription_number:118400312000004 
+[2024-11-04 14:36:25,719] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000017 Subscription_number:118400312000004 
+[2024-11-04 14:36:25,721] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730730985677 Record Key:202411040000000017 
+[2024-11-04 14:40:00,497] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730731200491 Record Key:202411040000000018 
+[2024-11-04 14:40:00,497] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411040000000018 Subscritpion_number:118400313000006 
+[2024-11-04 14:40:00,499] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118400313000006 
+[2024-11-04 14:40:00,499] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1061340525 
+[2024-11-04 14:40:00,503] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118400313000006 
+[2024-11-04 14:40:00,504] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118400313000006 
+[2024-11-04 14:40:00,512] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411040000000018 Subscription_number:118400313000006 
+[2024-11-04 14:40:00,512] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411040000000018 Subscription_number:118400313000006 
+[2024-11-04 14:40:00,543] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-04 14:40:00,543] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-04 14:40:00,546] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411040000000018 Subscription_number:118400313000006 
+[2024-11-04 14:40:00,548] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411040000000018 Subscription_number:118400313000006 
+[2024-11-04 14:40:00,550] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730731200491 Record Key:202411040000000018 
+[2024-11-04 22:31:19,803] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730759479778 Record Key:202411050000000001 
+[2024-11-05 04:07:07,622] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730779627604 Record Key:202411050000000001 
+[2024-11-05 04:07:07,622] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000001 Subscritpion_number:115100112000025 
+[2024-11-05 04:07:07,624] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100112000025 
+[2024-11-05 04:07:07,624] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1025360775 
+[2024-11-05 04:07:07,636] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :115100112000025 
+[2024-11-05 04:07:07,636] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :115100112000025 
+[2024-11-05 04:07:07,653] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000001 Subscription_number:115100112000025 
+[2024-11-05 04:07:07,653] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000001 Subscription_number:115100112000025 
+[2024-11-05 04:07:07,659] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 04:07:07,659] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 04:07:07,661] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000001 Subscription_number:115100112000025 
+[2024-11-05 04:07:07,688] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000001 Subscription_number:115100112000025 
+[2024-11-05 04:07:07,691] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730779627604 Record Key:202411050000000001 
+[2024-11-05 06:54:48,142] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730789688097 Record Key:202411050000000002 
+[2024-11-05 07:12:30,968] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730790750962 Record Key:202411050000000003 
+[2024-11-05 07:12:30,968] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000003 Subscritpion_number:117600313000005 
+[2024-11-05 07:12:30,970] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600313000005 
+[2024-11-05 07:12:30,970] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1092279536 
+[2024-11-05 07:12:30,975] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117600313000005 
+[2024-11-05 07:12:30,976] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117600313000005 
+[2024-11-05 07:12:30,985] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000003 Subscription_number:117600313000005 
+[2024-11-05 07:12:30,985] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000003 Subscription_number:117600313000005 
+[2024-11-05 07:12:30,989] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 07:12:30,989] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 07:12:30,990] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000003 Subscription_number:117600313000005 
+[2024-11-05 07:12:30,992] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000003 Subscription_number:117600313000005 
+[2024-11-05 07:12:30,994] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730790750962 Record Key:202411050000000003 
+[2024-11-05 07:15:36,544] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730790936538 Record Key:202411050000000004 
+[2024-11-05 07:15:36,544] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000004 Subscritpion_number:117600112000006 
+[2024-11-05 07:15:36,546] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600112000006 
+[2024-11-05 07:15:36,546] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-05 07:15:36,554] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730790936538 Record Key:202411050000000004 
+[2024-11-05 07:18:56,998] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730791136992 Record Key:202411050000000005 
+[2024-11-05 07:18:56,998] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000005 Subscritpion_number:117600113000005 
+[2024-11-05 07:18:57,000] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600113000005 
+[2024-11-05 07:18:57,000] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-05 07:18:57,043] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730791136992 Record Key:202411050000000005 
+[2024-11-05 07:33:29,442] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730792009436 Record Key:202411050000000006 
+[2024-11-05 07:33:29,442] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000006 Subscritpion_number:117600113000006 
+[2024-11-05 07:33:29,445] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600113000006 
+[2024-11-05 07:33:29,445] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-05 07:33:29,450] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117600113000006 
+[2024-11-05 07:33:29,451] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117600113000006 
+[2024-11-05 07:33:29,457] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Dep Check Dup Subscription :117600113000006 
+[2024-11-05 07:33:29,462] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Dep Check Dup Subscription :117600113000006 
+[2024-11-05 07:33:29,482] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000006 Subscription_number:117600113000006 
+[2024-11-05 07:33:29,482] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000006 Subscription_number:117600113000006 
+[2024-11-05 07:33:29,503] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 07:33:29,503] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 07:33:29,506] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000006 Subscription_number:117600113000006 
+[2024-11-05 07:33:29,508] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000006 Subscription_number:117600113000006 
+[2024-11-05 07:33:29,511] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730792009436 Record Key:202411050000000006 
+[2024-11-05 07:33:29,720] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730792009651 Record Key:202411050000000007 
+[2024-11-05 08:13:38,238] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730794418185 Record Key:202411050000000001 
+[2024-11-05 08:20:12,458] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730794812432 Record Key:202411050000000002 
+[2024-11-05 08:21:20,142] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730794880135 Record Key:202411050000000003 
+[2024-11-05 08:21:20,142] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000003 Subscritpion_number:115100113000029 
+[2024-11-05 08:21:20,143] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000029 
+[2024-11-05 08:21:20,143] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1025360775 
+[2024-11-05 08:21:20,149] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :115100113000029 
+[2024-11-05 08:21:20,150] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :115100113000029 
+[2024-11-05 08:21:20,171] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000003 Subscription_number:115100113000029 
+[2024-11-05 08:21:20,171] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000003 Subscription_number:115100113000029 
+[2024-11-05 08:21:20,177] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 08:21:20,177] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 08:21:20,180] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000003 Subscription_number:115100113000029 
+[2024-11-05 08:21:20,182] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000003 Subscription_number:115100113000029 
+[2024-11-05 08:21:20,192] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730794880135 Record Key:202411050000000003 
+[2024-11-05 08:40:45,412] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730796045386 Record Key:202411050000000004 
+[2024-11-05 09:52:34,437] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730800354403 Record Key:202411050000000005 
+[2024-11-05 09:54:49,533] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730800489527 Record Key:202411050000000006 
+[2024-11-05 09:54:49,533] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000006 Subscritpion_number:117600113000007 
+[2024-11-05 09:54:49,534] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600113000007 
+[2024-11-05 09:54:49,534] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1015709114 
+[2024-11-05 09:54:49,539] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117600113000007 
+[2024-11-05 09:54:49,541] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117600113000007 
+[2024-11-05 09:54:49,563] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000006 Subscription_number:117600113000007 
+[2024-11-05 09:54:49,563] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000006 Subscription_number:117600113000007 
+[2024-11-05 09:54:49,570] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 09:54:49,570] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 09:54:49,571] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000006 Subscription_number:117600113000007 
+[2024-11-05 09:54:49,573] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000006 Subscription_number:117600113000007 
+[2024-11-05 09:54:49,575] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730800489527 Record Key:202411050000000006 
+[2024-11-05 09:57:56,164] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730800676158 Record Key:202411050000000007 
+[2024-11-05 09:57:56,164] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000007 Subscritpion_number:117600112000007 
+[2024-11-05 09:57:56,166] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600112000007 
+[2024-11-05 09:57:56,166] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1016800003 
+[2024-11-05 09:57:56,171] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117600112000007 
+[2024-11-05 09:57:56,172] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117600112000007 
+[2024-11-05 09:57:56,186] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000007 Subscription_number:117600112000007 
+[2024-11-05 09:57:56,186] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000007 Subscription_number:117600112000007 
+[2024-11-05 09:57:56,213] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 09:57:56,213] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 09:57:56,215] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000007 Subscription_number:117600112000007 
+[2024-11-05 09:57:56,217] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000007 Subscription_number:117600112000007 
+[2024-11-05 09:57:56,219] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730800676158 Record Key:202411050000000007 
+[2024-11-05 10:02:56,938] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730800976928 Record Key:202411050000000008 
+[2024-11-05 10:02:56,938] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000008 Subscritpion_number:117600112000008 
+[2024-11-05 10:02:56,940] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600112000008 
+[2024-11-05 10:02:56,940] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1025360775 
+[2024-11-05 10:02:56,945] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117600112000008 
+[2024-11-05 10:02:56,946] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117600112000008 
+[2024-11-05 10:02:56,967] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000008 Subscription_number:117600112000008 
+[2024-11-05 10:02:56,967] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000008 Subscription_number:117600112000008 
+[2024-11-05 10:02:56,972] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 10:02:56,972] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 10:02:56,974] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000008 Subscription_number:117600112000008 
+[2024-11-05 10:02:56,976] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000008 Subscription_number:117600112000008 
+[2024-11-05 10:02:56,979] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730800976928 Record Key:202411050000000008 
+[2024-11-05 10:08:20,069] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730801300051 Record Key:202411050000000009 
+[2024-11-05 10:08:20,069] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000009 Subscritpion_number:117600113000009 
+[2024-11-05 10:08:20,073] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600113000009 
+[2024-11-05 10:08:20,073] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1017024116 
+[2024-11-05 10:08:20,078] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117600113000009 
+[2024-11-05 10:08:20,080] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117600113000009 
+[2024-11-05 10:08:20,101] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000009 Subscription_number:117600113000009 
+[2024-11-05 10:08:20,101] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000009 Subscription_number:117600113000009 
+[2024-11-05 10:08:20,192] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 10:08:20,192] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 10:08:20,197] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000009 Subscription_number:117600113000009 
+[2024-11-05 10:08:20,201] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000009 Subscription_number:117600113000009 
+[2024-11-05 10:08:20,205] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730801300051 Record Key:202411050000000009 
+[2024-11-05 10:54:04,814] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730804044751 Record Key:202411050000000010 
+[2024-11-05 11:00:09,702] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730804409660 Record Key:202411050000000011 
+[2024-11-05 11:36:49,380] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730806609361 Record Key:202411050000000012 
+[2024-11-05 11:36:49,380] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000012 Subscritpion_number:115100112000031 
+[2024-11-05 11:36:49,391] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100112000031 
+[2024-11-05 11:36:49,391] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:2273753125 
+[2024-11-05 11:36:49,407] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730806609361 Record Key:202411050000000012 
+[2024-11-05 11:38:27,620] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730806707614 Record Key:202411050000000013 
+[2024-11-05 11:38:27,620] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000013 Subscritpion_number:115100113000031 
+[2024-11-05 11:38:27,621] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000031 
+[2024-11-05 11:38:27,621] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:2286631656 
+[2024-11-05 11:38:27,630] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730806707614 Record Key:202411050000000013 
+[2024-11-05 11:39:25,484] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730806765477 Record Key:202411050000000014 
+[2024-11-05 11:39:25,484] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000014 Subscritpion_number:115100113000033 
+[2024-11-05 11:39:25,486] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000033 
+[2024-11-05 11:39:25,486] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1108879576 
+[2024-11-05 11:39:25,495] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730806765477 Record Key:202411050000000014 
+[2024-11-05 11:39:51,605] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730806791599 Record Key:202411050000000015 
+[2024-11-05 11:39:51,605] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000015 Subscritpion_number:115100113000034 
+[2024-11-05 11:39:51,606] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000034 
+[2024-11-05 11:39:51,606] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1023967944 
+[2024-11-05 11:39:51,613] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730806791599 Record Key:202411050000000015 
+[2024-11-05 12:12:48,023] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730808768013 Record Key:202411050000000016 
+[2024-11-05 12:12:48,023] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000016 Subscritpion_number:118600113000006 
+[2024-11-05 12:12:48,025] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118600113000006 
+[2024-11-05 12:12:48,025] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1023967944 
+[2024-11-05 12:12:48,036] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730808768013 Record Key:202411050000000016 
+[2024-11-05 12:13:23,166] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730808803160 Record Key:202411050000000017 
+[2024-11-05 12:13:23,166] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000017 Subscritpion_number:118600112000005 
+[2024-11-05 12:13:23,167] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118600112000005 
+[2024-11-05 12:13:23,167] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1108879576 
+[2024-11-05 12:13:23,174] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730808803160 Record Key:202411050000000017 
+[2024-11-05 12:24:32,814] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730809472806 Record Key:202411050000000018 
+[2024-11-05 12:24:32,814] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000018 Subscritpion_number:117600113000011 
+[2024-11-05 12:24:32,816] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600113000011 
+[2024-11-05 12:24:32,816] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1018504843 
+[2024-11-05 12:24:32,822] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117600113000011 
+[2024-11-05 12:24:32,823] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117600113000011 
+[2024-11-05 12:24:32,858] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000018 Subscription_number:117600113000011 
+[2024-11-05 12:24:32,858] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000018 Subscription_number:117600113000011 
+[2024-11-05 12:24:32,866] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 12:24:32,866] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 12:24:32,868] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000018 Subscription_number:117600113000011 
+[2024-11-05 12:24:32,871] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000018 Subscription_number:117600113000011 
+[2024-11-05 12:24:32,874] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730809472806 Record Key:202411050000000018 
+[2024-11-05 12:25:51,481] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730809551476 Record Key:202411050000000019 
+[2024-11-05 12:25:51,481] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000019 Subscritpion_number:117600113000012 
+[2024-11-05 12:25:51,482] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600113000012 
+[2024-11-05 12:25:51,482] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1018994598 
+[2024-11-05 12:25:51,485] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117600113000012 
+[2024-11-05 12:25:51,486] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117600113000012 
+[2024-11-05 12:25:51,500] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000019 Subscription_number:117600113000012 
+[2024-11-05 12:25:51,500] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000019 Subscription_number:117600113000012 
+[2024-11-05 12:25:51,536] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 12:25:51,536] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 12:25:51,538] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000019 Subscription_number:117600113000012 
+[2024-11-05 12:25:51,540] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000019 Subscription_number:117600113000012 
+[2024-11-05 12:25:51,542] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730809551476 Record Key:202411050000000019 
+[2024-11-05 12:41:46,646] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730810506614 Record Key:202411050000000020 
+[2024-11-05 14:15:03,441] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730816103432 Record Key:202411050000000021 
+[2024-11-05 14:15:03,442] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000021 Subscritpion_number:116900112000021 
+[2024-11-05 14:15:03,443] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...116900112000021 
+[2024-11-05 14:15:03,443] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1018504843 
+[2024-11-05 14:15:03,449] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :116900112000021 
+[2024-11-05 14:15:03,451] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :116900112000021 
+[2024-11-05 14:15:03,451] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Found Duplicate Check Dup Subscription :116900112000021 
+[2024-11-05 14:15:03,461] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730816103432 Record Key:202411050000000021 
+[2024-11-05 14:39:41,586] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730817581577 Record Key:202411050000000022 
+[2024-11-05 14:39:41,586] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000022 Subscritpion_number:116700112000007 
+[2024-11-05 14:39:41,588] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...116700112000007 
+[2024-11-05 14:39:41,588] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1018504843 
+[2024-11-05 14:39:41,594] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :116700112000007 
+[2024-11-05 14:39:41,595] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :116700112000007 
+[2024-11-05 14:39:41,624] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730817581577 Record Key:202411050000000022 
+[2024-11-05 14:41:09,341] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730817669253 Record Key:202411050000000023 
+[2024-11-05 14:45:30,537] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730817930529 Record Key:202411050000000024 
+[2024-11-05 14:45:30,537] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000024 Subscritpion_number:118400112000007 
+[2024-11-05 14:45:30,539] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118400112000007 
+[2024-11-05 14:45:30,539] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1018504843 
+[2024-11-05 14:45:30,545] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118400112000007 
+[2024-11-05 14:45:30,546] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118400112000007 
+[2024-11-05 14:45:30,557] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730817930529 Record Key:202411050000000024 
+[2024-11-05 14:48:18,325] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730818098319 Record Key:202411050000000025 
+[2024-11-05 14:48:18,325] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000025 Subscritpion_number:118400112000008 
+[2024-11-05 14:48:18,328] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118400112000008 
+[2024-11-05 14:48:18,328] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1018504843 
+[2024-11-05 14:48:18,333] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118400112000008 
+[2024-11-05 14:48:18,334] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118400112000008 
+[2024-11-05 14:48:18,344] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730818098319 Record Key:202411050000000025 
+[2024-11-05 15:12:23,781] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730819543731 Record Key:202411050000000026 
+[2024-11-05 15:38:09,716] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730821089660 Record Key:202411050000000027 
+[2024-11-05 15:40:16,166] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730821216133 Record Key:202411050000000028 
+[2024-11-05 15:40:17,653] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730821217645 Record Key:202411050000000029 
+[2024-11-05 15:40:17,653] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000029 Subscritpion_number:118900113000011 
+[2024-11-05 15:40:17,656] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118900113000011 
+[2024-11-05 15:40:17,656] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1018994598 
+[2024-11-05 15:40:17,663] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118900113000011 
+[2024-11-05 15:40:17,665] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118900113000011 
+[2024-11-05 15:40:17,680] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000029 Subscription_number:118900113000011 
+[2024-11-05 15:40:17,681] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000029 Subscription_number:118900113000011 
+[2024-11-05 15:40:17,686] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 15:40:17,686] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 15:40:17,688] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000029 Subscription_number:118900113000011 
+[2024-11-05 15:40:17,689] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000029 Subscription_number:118900113000011 
+[2024-11-05 15:40:17,691] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730821217645 Record Key:202411050000000029 
+[2024-11-05 15:40:21,328] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730821221310 Record Key:202411050000000030 
+[2024-11-05 15:40:22,185] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730821222180 Record Key:202411050000000031 
+[2024-11-05 15:40:22,185] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000031 Subscritpion_number:118900113000010 
+[2024-11-05 15:40:22,186] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118900113000010 
+[2024-11-05 15:40:22,186] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1020063960 
+[2024-11-05 15:40:22,189] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118900113000010 
+[2024-11-05 15:40:22,189] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118900113000010 
+[2024-11-05 15:40:22,198] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000031 Subscription_number:118900113000010 
+[2024-11-05 15:40:22,198] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000031 Subscription_number:118900113000010 
+[2024-11-05 15:40:22,201] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 15:40:22,201] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 15:40:22,204] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000031 Subscription_number:118900113000010 
+[2024-11-05 15:40:22,206] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000031 Subscription_number:118900113000010 
+[2024-11-05 15:40:22,208] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730821222180 Record Key:202411050000000031 
+[2024-11-05 15:55:58,788] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730822158778 Record Key:202411050000000032 
+[2024-11-05 15:55:58,788] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000032 Subscritpion_number:117600112000010 
+[2024-11-05 15:55:58,790] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600112000010 
+[2024-11-05 15:55:58,790] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1018504843 
+[2024-11-05 15:55:58,796] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117600112000010 
+[2024-11-05 15:55:58,797] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117600112000010 
+[2024-11-05 15:55:58,835] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000032 Subscription_number:117600112000010 
+[2024-11-05 15:55:58,835] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000032 Subscription_number:117600112000010 
+[2024-11-05 15:55:58,841] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 15:55:58,841] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 15:55:58,844] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000032 Subscription_number:117600112000010 
+[2024-11-05 15:55:58,865] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000032 Subscription_number:117600112000010 
+[2024-11-05 15:55:58,868] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730822158778 Record Key:202411050000000032 
+[2024-11-05 15:57:58,482] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730822278475 Record Key:202411050000000033 
+[2024-11-05 15:57:58,482] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000033 Subscritpion_number:118900113000013 
+[2024-11-05 15:57:58,484] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118900113000013 
+[2024-11-05 15:57:58,484] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1020063960 
+[2024-11-05 15:57:58,488] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118900113000013 
+[2024-11-05 15:57:58,489] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118900113000013 
+[2024-11-05 15:57:58,490] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Found Duplicate Check Dup Subscription :118900113000013 
+[2024-11-05 15:57:58,496] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730822278475 Record Key:202411050000000033 
+[2024-11-05 15:58:12,525] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730822292521 Record Key:202411050000000034 
+[2024-11-05 15:58:12,525] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411050000000034 Subscritpion_number:117600112000011 
+[2024-11-05 15:58:12,525] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117600112000011 
+[2024-11-05 15:58:12,525] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1018994598 
+[2024-11-05 15:58:12,528] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :117600112000011 
+[2024-11-05 15:58:12,529] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :117600112000011 
+[2024-11-05 15:58:12,543] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411050000000034 Subscription_number:117600112000011 
+[2024-11-05 15:58:12,543] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411050000000034 Subscription_number:117600112000011 
+[2024-11-05 15:58:12,574] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 15:58:12,574] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 15:58:12,576] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411050000000034 Subscription_number:117600112000011 
+[2024-11-05 15:58:12,578] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411050000000034 Subscription_number:117600112000011 
+[2024-11-05 15:58:12,591] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730822292521 Record Key:202411050000000034 
+[2024-11-05 22:31:23,016] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730845882997 Record Key:202411060000000001 
+[2024-11-05 22:31:23,016] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000001 Subscritpion_number:115100413000006 
+[2024-11-05 22:31:23,018] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100413000006 
+[2024-11-05 22:31:23,018] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-05 22:31:23,030] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :115100413000006 
+[2024-11-05 22:31:23,032] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :115100413000006 
+[2024-11-05 22:31:23,048] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000001 Subscription_number:115100413000006 
+[2024-11-05 22:31:23,048] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000001 Subscription_number:115100413000006 
+[2024-11-05 22:31:23,055] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-05 22:31:23,055] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-05 22:31:23,057] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000001 Subscription_number:115100413000006 
+[2024-11-05 22:31:23,059] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000001 Subscription_number:115100413000006 
+[2024-11-05 22:31:23,062] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730845882997 Record Key:202411060000000001 
+[2024-11-06 05:17:11,712] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730870231639 Record Key:202411060000000001 
+[2024-11-06 05:22:54,396] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730870574346 Record Key:202411060000000002 
+[2024-11-06 05:31:01,118] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730871061111 Record Key:202411060000000003 
+[2024-11-06 05:31:01,118] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000003 Subscritpion_number:119500313000007 
+[2024-11-06 05:31:01,119] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500313000007 
+[2024-11-06 05:31:01,119] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1092279536 
+[2024-11-06 05:31:01,127] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730871061111 Record Key:202411060000000003 
+[2024-11-06 05:32:45,365] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730871165356 Record Key:202411060000000004 
+[2024-11-06 05:32:45,365] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000004 Subscritpion_number:119500113000005 
+[2024-11-06 05:32:45,367] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500113000005 
+[2024-11-06 05:32:45,367] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-06 05:32:45,374] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119500113000005 
+[2024-11-06 05:32:45,375] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119500113000005 
+[2024-11-06 05:32:45,397] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000004 Subscription_number:119500113000005 
+[2024-11-06 05:32:45,397] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000004 Subscription_number:119500113000005 
+[2024-11-06 05:32:45,405] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 05:32:45,405] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 05:32:45,408] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000004 Subscription_number:119500113000005 
+[2024-11-06 05:32:45,410] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000004 Subscription_number:119500113000005 
+[2024-11-06 05:32:45,413] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730871165356 Record Key:202411060000000004 
+[2024-11-06 05:38:48,543] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730871528535 Record Key:202411060000000005 
+[2024-11-06 05:38:48,543] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000005 Subscritpion_number:119500313000009 
+[2024-11-06 05:38:48,544] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500313000009 
+[2024-11-06 05:38:48,545] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1092279536 
+[2024-11-06 05:38:48,550] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119500313000009 
+[2024-11-06 05:38:48,552] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119500313000009 
+[2024-11-06 05:38:48,574] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000005 Subscription_number:119500313000009 
+[2024-11-06 05:38:48,574] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000005 Subscription_number:119500313000009 
+[2024-11-06 05:38:48,614] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 05:38:48,614] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 05:38:48,617] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000005 Subscription_number:119500313000009 
+[2024-11-06 05:38:48,619] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000005 Subscription_number:119500313000009 
+[2024-11-06 05:38:48,621] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730871528535 Record Key:202411060000000005 
+[2024-11-06 06:30:55,876] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730874655843 Record Key:202411060000000006 
+[2024-11-06 06:31:43,972] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730874703967 Record Key:202411060000000007 
+[2024-11-06 06:31:43,972] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000007 Subscritpion_number:119500112000004 
+[2024-11-06 06:31:43,975] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500112000004 
+[2024-11-06 06:31:43,975] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-06 06:31:43,981] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119500112000004 
+[2024-11-06 06:31:43,981] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119500112000004 
+[2024-11-06 06:31:43,982] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Dep Check Dup Subscription :119500112000004 
+[2024-11-06 06:31:43,983] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Dep Check Dup Subscription :119500112000004 
+[2024-11-06 06:31:43,997] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000007 Subscription_number:119500112000004 
+[2024-11-06 06:31:43,997] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000007 Subscription_number:119500112000004 
+[2024-11-06 06:31:44,002] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 06:31:44,002] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 06:31:44,003] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000007 Subscription_number:119500112000004 
+[2024-11-06 06:31:44,029] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000007 Subscription_number:119500112000004 
+[2024-11-06 06:31:44,032] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730874703967 Record Key:202411060000000007 
+[2024-11-06 06:31:45,089] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730874705074 Record Key:202411060000000008 
+[2024-11-06 06:48:10,546] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730875690516 Record Key:202411060000000009 
+[2024-11-06 06:48:10,582] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730875690577 Record Key:202411060000000010 
+[2024-11-06 06:48:10,582] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000010 Subscritpion_number:119500112000006 
+[2024-11-06 06:48:10,582] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500112000006 
+[2024-11-06 06:48:10,582] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1031836800 
+[2024-11-06 06:48:10,587] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119500112000006 
+[2024-11-06 06:48:10,588] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119500112000006 
+[2024-11-06 06:48:10,588] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Dep Check Dup Subscription :119500112000006 
+[2024-11-06 06:48:10,589] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Dep Check Dup Subscription :119500112000006 
+[2024-11-06 06:48:10,606] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000010 Subscription_number:119500112000006 
+[2024-11-06 06:48:10,606] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000010 Subscription_number:119500112000006 
+[2024-11-06 06:48:10,612] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 06:48:10,612] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 06:48:10,614] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000010 Subscription_number:119500112000006 
+[2024-11-06 06:48:10,636] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000010 Subscription_number:119500112000006 
+[2024-11-06 06:48:10,638] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730875690577 Record Key:202411060000000010 
+[2024-11-06 06:48:10,748] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730875690733 Record Key:202411060000000011 
+[2024-11-06 07:15:08,911] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730877308901 Record Key:202411060000000012 
+[2024-11-06 07:15:08,911] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000012 Subscritpion_number:119500113000006 
+[2024-11-06 07:15:08,913] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500113000006 
+[2024-11-06 07:15:08,913] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1015709114 
+[2024-11-06 07:15:08,919] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119500113000006 
+[2024-11-06 07:15:08,920] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119500113000006 
+[2024-11-06 07:15:08,940] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000012 Subscription_number:119500113000006 
+[2024-11-06 07:15:08,940] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000012 Subscription_number:119500113000006 
+[2024-11-06 07:15:08,947] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 07:15:08,947] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 07:15:08,949] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000012 Subscription_number:119500113000006 
+[2024-11-06 07:15:08,951] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000012 Subscription_number:119500113000006 
+[2024-11-06 07:15:08,953] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730877308901 Record Key:202411060000000012 
+[2024-11-06 07:16:18,461] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730877378456 Record Key:202411060000000013 
+[2024-11-06 07:16:18,462] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000013 Subscritpion_number:119500113000007 
+[2024-11-06 07:16:18,463] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500113000007 
+[2024-11-06 07:16:18,463] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1016800003 
+[2024-11-06 07:16:18,466] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119500113000007 
+[2024-11-06 07:16:18,466] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119500113000007 
+[2024-11-06 07:16:18,474] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000013 Subscription_number:119500113000007 
+[2024-11-06 07:16:18,474] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000013 Subscription_number:119500113000007 
+[2024-11-06 07:16:18,496] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 07:16:18,496] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 07:16:18,498] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000013 Subscription_number:119500113000007 
+[2024-11-06 07:16:18,500] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000013 Subscription_number:119500113000007 
+[2024-11-06 07:16:18,502] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730877378456 Record Key:202411060000000013 
+[2024-11-06 07:53:11,263] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730879591254 Record Key:202411060000000014 
+[2024-11-06 07:53:11,263] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000014 Subscritpion_number:119500113000008 
+[2024-11-06 07:53:11,265] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500113000008 
+[2024-11-06 07:53:11,265] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1025360775 
+[2024-11-06 07:53:11,270] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119500113000008 
+[2024-11-06 07:53:11,272] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119500113000008 
+[2024-11-06 07:53:11,294] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000014 Subscription_number:119500113000008 
+[2024-11-06 07:53:11,294] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000014 Subscription_number:119500113000008 
+[2024-11-06 07:53:11,300] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 07:53:11,300] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 07:53:11,302] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000014 Subscription_number:119500113000008 
+[2024-11-06 07:53:11,312] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000014 Subscription_number:119500113000008 
+[2024-11-06 07:53:11,314] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730879591254 Record Key:202411060000000014 
+[2024-11-06 07:54:49,338] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730879689322 Record Key:202411060000000015 
+[2024-11-06 07:54:49,338] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000015 Subscritpion_number:119500112000007 
+[2024-11-06 07:54:49,339] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500112000007 
+[2024-11-06 07:54:49,339] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1017024116 
+[2024-11-06 07:54:49,342] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119500112000007 
+[2024-11-06 07:54:49,342] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119500112000007 
+[2024-11-06 07:54:49,359] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000015 Subscription_number:119500112000007 
+[2024-11-06 07:54:49,359] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000015 Subscription_number:119500112000007 
+[2024-11-06 07:54:49,389] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 07:54:49,389] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 07:54:49,390] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000015 Subscription_number:119500112000007 
+[2024-11-06 07:54:49,392] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000015 Subscription_number:119500112000007 
+[2024-11-06 07:54:49,394] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730879689322 Record Key:202411060000000015 
+[2024-11-06 07:58:35,614] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730879915608 Record Key:202411060000000016 
+[2024-11-06 07:58:35,614] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000016 Subscritpion_number:119500313000012 
+[2024-11-06 07:58:35,616] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500313000012 
+[2024-11-06 07:58:35,616] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1000013423 
+[2024-11-06 07:58:35,623] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730879915608 Record Key:202411060000000016 
+[2024-11-06 08:04:49,096] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730880289086 Record Key:202411060000000017 
+[2024-11-06 08:04:49,096] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000017 Subscritpion_number:119500313000013 
+[2024-11-06 08:04:49,106] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500313000013 
+[2024-11-06 08:04:49,106] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1000013423 
+[2024-11-06 08:04:49,150] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730880289086 Record Key:202411060000000017 
+[2024-11-06 08:06:09,065] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730880369059 Record Key:202411060000000018 
+[2024-11-06 08:06:09,065] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000018 Subscritpion_number:119500313000014 
+[2024-11-06 08:06:09,067] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500313000014 
+[2024-11-06 08:06:09,067] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1000013423 
+[2024-11-06 08:06:09,076] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730880369059 Record Key:202411060000000018 
+[2024-11-06 08:13:40,659] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730880820641 Record Key:202411060000000019 
+[2024-11-06 08:13:40,659] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000019 Subscritpion_number:119500313000015 
+[2024-11-06 08:13:40,670] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500313000015 
+[2024-11-06 08:13:40,670] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1061340525 
+[2024-11-06 08:13:40,679] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119500313000015 
+[2024-11-06 08:13:40,681] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119500313000015 
+[2024-11-06 08:13:40,707] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000019 Subscription_number:119500313000015 
+[2024-11-06 08:13:40,707] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000019 Subscription_number:119500313000015 
+[2024-11-06 08:13:40,713] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 08:13:40,713] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 08:13:40,716] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000019 Subscription_number:119500313000015 
+[2024-11-06 08:13:40,718] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000019 Subscription_number:119500313000015 
+[2024-11-06 08:13:40,721] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730880820641 Record Key:202411060000000019 
+[2024-11-06 08:17:55,639] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730881075630 Record Key:202411060000000020 
+[2024-11-06 08:17:55,639] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000020 Subscritpion_number:119500113000009 
+[2024-11-06 08:17:55,640] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500113000009 
+[2024-11-06 08:17:55,640] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1000013423 
+[2024-11-06 08:17:55,650] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730881075630 Record Key:202411060000000020 
+[2024-11-06 08:21:22,162] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730881282156 Record Key:202411060000000021 
+[2024-11-06 08:21:22,162] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000021 Subscritpion_number:119500113000010 
+[2024-11-06 08:21:22,164] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500113000010 
+[2024-11-06 08:21:22,164] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1023967944 
+[2024-11-06 08:21:22,169] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119500113000010 
+[2024-11-06 08:21:22,170] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119500113000010 
+[2024-11-06 08:21:22,187] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000021 Subscription_number:119500113000010 
+[2024-11-06 08:21:22,187] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000021 Subscription_number:119500113000010 
+[2024-11-06 08:21:22,195] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 08:21:22,195] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 08:21:22,197] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000021 Subscription_number:119500113000010 
+[2024-11-06 08:21:22,199] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000021 Subscription_number:119500113000010 
+[2024-11-06 08:21:22,201] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730881282156 Record Key:202411060000000021 
+[2024-11-06 08:21:22,425] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730881282400 Record Key:202411060000000022 
+[2024-11-06 08:25:17,080] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730881517075 Record Key:202411060000000023 
+[2024-11-06 08:25:17,080] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000023 Subscritpion_number:119500113000011 
+[2024-11-06 08:25:17,081] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500113000011 
+[2024-11-06 08:25:17,081] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1018504843 
+[2024-11-06 08:25:17,087] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119500113000011 
+[2024-11-06 08:25:17,088] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119500113000011 
+[2024-11-06 08:25:17,120] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000023 Subscription_number:119500113000011 
+[2024-11-06 08:25:17,120] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000023 Subscription_number:119500113000011 
+[2024-11-06 08:25:17,124] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 08:25:17,124] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 08:25:17,127] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000023 Subscription_number:119500113000011 
+[2024-11-06 08:25:17,128] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000023 Subscription_number:119500113000011 
+[2024-11-06 08:25:17,131] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730881517075 Record Key:202411060000000023 
+[2024-11-06 08:27:29,167] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730881649161 Record Key:202411060000000024 
+[2024-11-06 08:27:29,167] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000024 Subscritpion_number:119500313000017 
+[2024-11-06 08:27:29,168] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500313000017 
+[2024-11-06 08:27:29,168] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1101264370 
+[2024-11-06 08:27:29,173] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119500313000017 
+[2024-11-06 08:27:29,174] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119500313000017 
+[2024-11-06 08:27:29,188] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000024 Subscription_number:119500313000017 
+[2024-11-06 08:27:29,188] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000024 Subscription_number:119500313000017 
+[2024-11-06 08:27:29,213] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 08:27:29,213] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 08:27:29,215] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000024 Subscription_number:119500313000017 
+[2024-11-06 08:27:29,216] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000024 Subscription_number:119500313000017 
+[2024-11-06 08:27:29,219] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730881649161 Record Key:202411060000000024 
+[2024-11-06 09:31:31,596] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730885491578 Record Key:202411060000000002 
+[2024-11-06 09:32:51,313] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730885571294 Record Key:202411060000000003 
+[2024-11-06 10:32:36,632] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730889156590 Record Key:202411060000000025 
+[2024-11-06 10:36:22,621] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730889382612 Record Key:202411060000000026 
+[2024-11-06 10:36:22,621] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000026 Subscritpion_number:119500313000020 
+[2024-11-06 10:36:22,624] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119500313000020 
+[2024-11-06 10:36:22,624] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1101264370 
+[2024-11-06 10:36:22,632] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119500313000020 
+[2024-11-06 10:36:22,634] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119500313000020 
+[2024-11-06 10:36:22,686] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000026 Subscription_number:119500313000020 
+[2024-11-06 10:36:22,686] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000026 Subscription_number:119500313000020 
+[2024-11-06 10:36:22,699] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 10:36:22,699] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 10:36:22,701] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000026 Subscription_number:119500313000020 
+[2024-11-06 10:36:22,704] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000026 Subscription_number:119500313000020 
+[2024-11-06 10:36:22,706] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730889382612 Record Key:202411060000000026 
+[2024-11-06 10:36:23,339] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730889383317 Record Key:202411060000000027 
+[2024-11-06 11:00:16,796] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730890816755 Record Key:202411060000000028 
+[2024-11-06 11:18:58,208] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730891938198 Record Key:202411060000000029 
+[2024-11-06 11:18:58,208] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000029 Subscritpion_number:115100313000044 
+[2024-11-06 11:18:58,210] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100313000044 
+[2024-11-06 11:18:58,210] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1092279536 
+[2024-11-06 11:18:58,219] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730891938198 Record Key:202411060000000029 
+[2024-11-06 12:04:44,088] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730894684081 Record Key:202411060000000030 
+[2024-11-06 12:04:44,089] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000030 Subscritpion_number:115100313000065 
+[2024-11-06 12:04:44,091] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100313000065 
+[2024-11-06 12:04:44,091] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1092279536 
+[2024-11-06 12:04:44,099] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730894684081 Record Key:202411060000000030 
+[2024-11-06 12:45:29,438] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730897129431 Record Key:202411060000000004 
+[2024-11-06 12:45:29,438] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000004 Subscritpion_number:119702410000021 
+[2024-11-06 12:45:29,440] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119702410000021 
+[2024-11-06 12:45:29,440] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1021990062 
+[2024-11-06 12:45:29,480] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119702410000021 
+[2024-11-06 12:45:29,481] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119702410000021 
+[2024-11-06 12:45:29,511] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000004 Subscription_number:119702410000021 
+[2024-11-06 12:45:29,511] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000004 Subscription_number:119702410000021 
+[2024-11-06 12:45:29,519] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 12:45:29,519] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 12:45:29,523] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000004 Subscription_number:119702410000021 
+[2024-11-06 12:45:29,525] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000004 Subscription_number:119702410000021 
+[2024-11-06 12:45:29,527] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730897129431 Record Key:202411060000000004 
+[2024-11-06 12:52:30,340] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730897550333 Record Key:202411060000000005 
+[2024-11-06 12:52:30,340] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000005 Subscritpion_number:119702410000038 
+[2024-11-06 12:52:30,343] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119702410000038 
+[2024-11-06 12:52:30,343] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1116332766 
+[2024-11-06 12:52:30,349] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119702410000038 
+[2024-11-06 12:52:30,350] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119702410000038 
+[2024-11-06 12:52:30,354] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Dep Check Dup Subscription :119702410000038 
+[2024-11-06 12:52:30,355] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Dep Check Dup Subscription :119702410000038 
+[2024-11-06 12:52:30,355] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Dep Check Dup Subscription :119702410000038 
+[2024-11-06 12:52:30,356] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Dep Check Dup Subscription :119702410000038 
+[2024-11-06 12:52:30,386] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411060000000005 Subscription_number:119702410000038 
+[2024-11-06 12:52:30,386] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411060000000005 Subscription_number:119702410000038 
+[2024-11-06 12:52:30,398] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-06 12:52:30,398] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-06 12:52:30,400] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411060000000005 Subscription_number:119702410000038 
+[2024-11-06 12:52:30,401] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411060000000005 Subscription_number:119702410000038 
+[2024-11-06 12:52:30,404] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730897550333 Record Key:202411060000000005 
+[2024-11-06 12:52:45,645] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730897565594 Record Key:202411060000000006 
+[2024-11-06 12:54:31,744] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730897671738 Record Key:202411060000000007 
+[2024-11-06 12:54:31,744] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000007 Subscritpion_number:119702410000052 
+[2024-11-06 12:54:31,744] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119702410000052 
+[2024-11-06 12:54:31,744] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1116333582 
+[2024-11-06 12:54:31,749] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119702410000052 
+[2024-11-06 12:54:31,751] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119702410000052 
+[2024-11-06 12:54:31,751] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Found Duplicate Check Dup Subscription :119702410000052 
+[2024-11-06 12:54:31,759] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730897671738 Record Key:202411060000000007 
+[2024-11-06 14:28:24,219] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730903304156 Record Key:202411060000000008 
+[2024-11-06 14:32:39,322] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730903559312 Record Key:202411060000000031 
+[2024-11-06 14:32:42,778] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730903562770 Record Key:202411060000000009 
+[2024-11-06 14:32:42,778] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411060000000009 Subscritpion_number:117701212000004 
+[2024-11-06 14:32:42,780] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...117701212000004 
+[2024-11-06 14:32:42,780] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1069048054 
+[2024-11-06 14:32:42,786] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730903562770 Record Key:202411060000000009 
+[2024-11-07 09:19:05,174] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730971145158 Record Key:202411070000000001 
+[2024-11-07 09:19:05,174] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411070000000001 Subscritpion_number:115100113000032 
+[2024-11-07 09:19:05,176] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100113000032 
+[2024-11-07 09:19:05,176] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1126731569 
+[2024-11-07 09:19:05,191] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730971145158 Record Key:202411070000000001 
+[2024-11-07 11:00:16,550] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730977216493 Record Key:202411070000000002 
+[2024-11-07 12:00:29,565] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730980829540 Record Key:202411070000000001 
+[2024-11-07 12:00:29,565] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411070000000001 Subscritpion_number:118802410000502 
+[2024-11-07 12:00:29,568] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118802410000502 
+[2024-11-07 12:00:29,568] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:7004005 
+[2024-11-07 12:00:29,578] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118802410000502 
+[2024-11-07 12:00:29,579] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118802410000502 
+[2024-11-07 12:00:29,581] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411070000000001 Subscription_number:118802410000502 
+[2024-11-07 12:00:29,581] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411070000000001 Subscription_number:118802410000502 
+[2024-11-07 12:00:29,590] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-07 12:00:29,590] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-07 12:00:29,592] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411070000000001 Subscription_number:118802410000502 
+[2024-11-07 12:00:29,593] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411070000000001 Subscription_number:118802410000502 
+[2024-11-07 12:00:29,596] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730980829540 Record Key:202411070000000001 
+[2024-11-07 12:00:45,841] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730980845833 Record Key:202411070000000002 
+[2024-11-07 12:00:45,841] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411070000000002 Subscritpion_number:118802410000540 
+[2024-11-07 12:00:45,842] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118802410000540 
+[2024-11-07 12:00:45,842] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:733233 
+[2024-11-07 12:00:45,852] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730980845833 Record Key:202411070000000002 
+[2024-11-07 12:01:03,704] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730980863696 Record Key:202411070000000003 
+[2024-11-07 12:01:03,704] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411070000000003 Subscritpion_number:118802410000557 
+[2024-11-07 12:01:03,705] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118802410000557 
+[2024-11-07 12:01:03,705] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:2389707650 
+[2024-11-07 12:01:03,709] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118802410000557 
+[2024-11-07 12:01:03,709] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118802410000557 
+[2024-11-07 12:01:03,711] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411070000000003 Subscription_number:118802410000557 
+[2024-11-07 12:01:03,711] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411070000000003 Subscription_number:118802410000557 
+[2024-11-07 12:01:03,715] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-07 12:01:03,715] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-07 12:01:03,716] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411070000000003 Subscription_number:118802410000557 
+[2024-11-07 12:01:03,718] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411070000000003 Subscription_number:118802410000557 
+[2024-11-07 12:01:03,721] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730980863696 Record Key:202411070000000003 
+[2024-11-07 12:01:21,713] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730980881708 Record Key:202411070000000004 
+[2024-11-07 12:01:21,713] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411070000000004 Subscritpion_number:118802410000564 
+[2024-11-07 12:01:21,714] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118802410000564 
+[2024-11-07 12:01:21,714] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1070009277 
+[2024-11-07 12:01:21,723] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118802410000564 
+[2024-11-07 12:01:21,724] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118802410000564 
+[2024-11-07 12:01:21,726] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411070000000004 Subscription_number:118802410000564 
+[2024-11-07 12:01:21,726] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411070000000004 Subscription_number:118802410000564 
+[2024-11-07 12:01:21,732] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-07 12:01:21,732] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-07 12:01:21,734] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411070000000004 Subscription_number:118802410000564 
+[2024-11-07 12:01:21,736] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411070000000004 Subscription_number:118802410000564 
+[2024-11-07 12:01:21,738] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730980881708 Record Key:202411070000000004 
+[2024-11-07 12:50:07,895] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730983807887 Record Key:202411070000000005 
+[2024-11-07 12:50:07,895] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411070000000005 Subscritpion_number:118702410003220 
+[2024-11-07 12:50:07,897] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118702410003220 
+[2024-11-07 12:50:07,897] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1009870856 
+[2024-11-07 12:50:07,908] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730983807887 Record Key:202411070000000005 
+[2024-11-07 12:51:04,085] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730983864079 Record Key:202411070000000006 
+[2024-11-07 12:51:04,085] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411070000000006 Subscritpion_number:118702410003176 
+[2024-11-07 12:51:04,085] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118702410003176 
+[2024-11-07 12:51:04,085] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:SLBN32993 
+[2024-11-07 12:51:04,091] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118702410003176 
+[2024-11-07 12:51:04,092] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118702410003176 
+[2024-11-07 12:51:04,094] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411070000000006 Subscription_number:118702410003176 
+[2024-11-07 12:51:04,094] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411070000000006 Subscription_number:118702410003176 
+[2024-11-07 12:51:04,102] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-07 12:51:04,102] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-07 12:51:04,103] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411070000000006 Subscription_number:118702410003176 
+[2024-11-07 12:51:04,105] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411070000000006 Subscription_number:118702410003176 
+[2024-11-07 12:51:04,107] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730983864079 Record Key:202411070000000006 
+[2024-11-07 13:26:07,741] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730985967735 Record Key:202411070000000007 
+[2024-11-07 13:26:07,741] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411070000000007 Subscritpion_number:118702410003183 
+[2024-11-07 13:26:07,743] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118702410003183 
+[2024-11-07 13:26:07,743] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:SJOR9741029765 
+[2024-11-07 13:26:07,749] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118702410003183 
+[2024-11-07 13:26:07,750] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118702410003183 
+[2024-11-07 13:26:07,751] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411070000000007 Subscription_number:118702410003183 
+[2024-11-07 13:26:07,751] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411070000000007 Subscription_number:118702410003183 
+[2024-11-07 13:26:07,763] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-07 13:26:07,763] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-07 13:26:07,767] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411070000000007 Subscription_number:118702410003183 
+[2024-11-07 13:26:07,769] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411070000000007 Subscription_number:118702410003183 
+[2024-11-07 13:26:07,772] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730985967735 Record Key:202411070000000007 
+[2024-11-07 13:28:59,565] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730986139559 Record Key:202411070000000008 
+[2024-11-07 13:28:59,565] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411070000000008 Subscritpion_number:118902410000847 
+[2024-11-07 13:28:59,566] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118902410000847 
+[2024-11-07 13:28:59,566] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1069858841 
+[2024-11-07 13:28:59,571] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118902410000847 
+[2024-11-07 13:28:59,572] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118902410000847 
+[2024-11-07 13:28:59,589] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411070000000008 Subscription_number:118902410000847 
+[2024-11-07 13:28:59,590] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411070000000008 Subscription_number:118902410000847 
+[2024-11-07 13:28:59,594] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-07 13:28:59,594] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-07 13:28:59,595] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411070000000008 Subscription_number:118902410000847 
+[2024-11-07 13:28:59,596] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411070000000008 Subscription_number:118902410000847 
+[2024-11-07 13:28:59,599] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730986139559 Record Key:202411070000000008 
+[2024-11-07 13:29:21,602] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730986161597 Record Key:202411070000000009 
+[2024-11-07 13:29:21,602] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411070000000009 Subscritpion_number:118902410000830 
+[2024-11-07 13:29:21,603] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118902410000830 
+[2024-11-07 13:29:21,603] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1069858015 
+[2024-11-07 13:29:21,606] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118902410000830 
+[2024-11-07 13:29:21,607] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118902410000830 
+[2024-11-07 13:29:21,625] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411070000000009 Subscription_number:118902410000830 
+[2024-11-07 13:29:21,625] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411070000000009 Subscription_number:118902410000830 
+[2024-11-07 13:29:21,630] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-07 13:29:21,630] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-07 13:29:21,633] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411070000000009 Subscription_number:118902410000830 
+[2024-11-07 13:29:21,634] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411070000000009 Subscription_number:118902410000830 
+[2024-11-07 13:29:21,637] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730986161597 Record Key:202411070000000009 
+[2024-11-07 13:30:00,810] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730986200769 Record Key:202411070000000010 
+[2024-11-07 13:31:05,452] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730986265431 Record Key:202411070000000011 
+[2024-11-07 13:31:28,377] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730986288350 Record Key:202411070000000012 
+[2024-11-07 13:42:51,842] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730986971833 Record Key:202411070000000013 
+[2024-11-07 13:42:51,842] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411070000000013 Subscritpion_number:119002410000137 
+[2024-11-07 13:42:51,844] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...119002410000137 
+[2024-11-07 13:42:51,844] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1047520257 
+[2024-11-07 13:42:51,850] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :119002410000137 
+[2024-11-07 13:42:51,851] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :119002410000137 
+[2024-11-07 13:42:51,884] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411070000000013 Subscription_number:119002410000137 
+[2024-11-07 13:42:51,884] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411070000000013 Subscription_number:119002410000137 
+[2024-11-07 13:42:51,890] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-07 13:42:51,890] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-07 13:42:51,892] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411070000000013 Subscription_number:119002410000137 
+[2024-11-07 13:42:51,893] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411070000000013 Subscription_number:119002410000137 
+[2024-11-07 13:42:51,896] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730986971833 Record Key:202411070000000013 
+[2024-11-07 15:03:48,362] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1730991828353 Record Key:202411070000000014 
+[2024-11-07 15:03:48,362] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411070000000014 Subscritpion_number:118902410000854 
+[2024-11-07 15:03:48,364] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118902410000854 
+[2024-11-07 15:03:48,364] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1069859732 
+[2024-11-07 15:03:48,373] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1730991828353 Record Key:202411070000000014 
+[2024-11-08 08:24:29,458] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731054269429 Record Key:1120241108122429 
+[2024-11-08 08:24:55,553] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731054295482 Record Key:1520241108122455 
+[2024-11-08 10:46:14,625] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1731062774612 Record Key:202411080000000001 
+[2024-11-08 10:46:14,625] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411080000000001 Subscritpion_number:118702410003169 
+[2024-11-08 10:46:14,628] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118702410003169 
+[2024-11-08 10:46:14,628] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:7332311 
+[2024-11-08 10:46:14,752] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731062774612 Record Key:202411080000000001 
+[2024-11-08 10:46:14,965] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1731062774957 Record Key:202411080000000002 
+[2024-11-08 10:46:14,965] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411080000000002 Subscritpion_number:118902410000861 
+[2024-11-08 10:46:14,965] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118902410000861 
+[2024-11-08 10:46:14,965] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1069863593 
+[2024-11-08 10:46:14,971] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118902410000861 
+[2024-11-08 10:46:14,973] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118902410000861 
+[2024-11-08 10:46:15,007] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411080000000002 Subscription_number:118902410000861 
+[2024-11-08 10:46:15,007] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411080000000002 Subscription_number:118902410000861 
+[2024-11-08 10:46:15,016] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-08 10:46:15,016] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-08 10:46:15,019] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411080000000002 Subscription_number:118902410000861 
+[2024-11-08 10:46:15,021] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411080000000002 Subscription_number:118902410000861 
+[2024-11-08 10:46:15,049] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731062774957 Record Key:202411080000000002 
+[2024-11-08 10:50:32,241] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731063032225 Record Key:202411080000000003 
+[2024-11-08 10:51:44,720] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731063104689 Record Key:202411080000000004 
+[2024-11-08 10:52:13,946] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731063133910 Record Key:202411080000000005 
+[2024-11-08 10:52:34,494] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1731063154487 Record Key:202411080000000006 
+[2024-11-08 10:52:34,494] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411080000000006 Subscritpion_number:118902410000878 
+[2024-11-08 10:52:34,504] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118902410000878 
+[2024-11-08 10:52:34,504] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1069863593 
+[2024-11-08 10:52:34,511] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118902410000878 
+[2024-11-08 10:52:34,513] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118902410000878 
+[2024-11-08 10:52:34,565] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411080000000006 Subscription_number:118902410000878 
+[2024-11-08 10:52:34,565] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411080000000006 Subscription_number:118902410000878 
+[2024-11-08 10:52:34,570] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-08 10:52:34,570] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-08 10:52:34,573] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411080000000006 Subscription_number:118902410000878 
+[2024-11-08 10:52:34,574] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411080000000006 Subscription_number:118902410000878 
+[2024-11-08 10:52:34,577] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731063154487 Record Key:202411080000000006 
+[2024-11-08 10:56:12,263] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1731063372256 Record Key:202411080000000007 
+[2024-11-08 10:56:12,263] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411080000000007 Subscritpion_number:118902410000885 
+[2024-11-08 10:56:12,265] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118902410000885 
+[2024-11-08 10:56:12,265] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1069864138 
+[2024-11-08 10:56:12,271] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118902410000885 
+[2024-11-08 10:56:12,272] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118902410000885 
+[2024-11-08 10:56:12,280] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Dep Check Dup Subscription :118902410000885 
+[2024-11-08 10:56:12,281] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Dep Check Dup Subscription :118902410000885 
+[2024-11-08 10:56:12,281] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Dep Check Dup Subscription :118902410000885 
+[2024-11-08 10:56:12,282] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Dep Check Dup Subscription :118902410000885 
+[2024-11-08 10:56:12,302] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411080000000007 Subscription_number:118902410000885 
+[2024-11-08 10:56:12,302] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411080000000007 Subscription_number:118902410000885 
+[2024-11-08 10:56:12,327] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-08 10:56:12,327] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-08 10:56:12,330] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411080000000007 Subscription_number:118902410000885 
+[2024-11-08 10:56:12,332] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411080000000007 Subscription_number:118902410000885 
+[2024-11-08 10:56:12,335] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731063372256 Record Key:202411080000000007 
+[2024-11-08 10:56:17,323] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731063377305 Record Key:202411080000000008 
+[2024-11-08 11:00:16,485] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731063616442 Record Key:202411080000000001 
+[2024-11-09 11:00:16,629] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731150016565 Record Key:202411090000000001 
+[2024-11-10 09:11:22,036] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731229882003 Record Key:202411100000000001 
+[2024-11-10 09:16:17,251] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731230177219 Record Key:202411100000000002 
+[2024-11-10 09:17:12,338] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731230232306 Record Key:202411100000000003 
+[2024-11-10 09:17:46,161] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731230266136 Record Key:202411100000000004 
+[2024-11-10 09:18:44,749] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731230324728 Record Key:202411100000000005 
+[2024-11-10 11:00:08,940] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731236408884 Record Key:202411100000000001 
+[2024-11-11 08:08:58,665] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731312538584 Record Key:202411110000000001 
+[2024-11-11 08:11:12,637] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731312672579 Record Key:202411110000000002 
+[2024-11-11 08:33:33,632] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731314013612 Record Key:202411110000000003 
+[2024-11-11 11:00:17,113] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731322817031 Record Key:202411110000000004 
+[2024-11-12 05:29:17,047] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731389356960 Record Key:202411120000000001 
+[2024-11-12 07:20:36,318] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731396036256 Record Key:202411120000000001 
+[2024-11-12 07:25:05,970] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731396305932 Record Key:202411120000000002 
+[2024-11-12 10:29:03,917] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1731407343905 Record Key:202411120000000003 
+[2024-11-12 10:29:03,917] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411120000000003 Subscritpion_number:118802410000588 
+[2024-11-12 10:29:03,919] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118802410000588 
+[2024-11-12 10:29:03,919] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:7878989 
+[2024-11-12 10:29:03,945] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731407343905 Record Key:202411120000000003 
+[2024-11-12 11:00:09,125] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731409209063 Record Key:202411120000000002 
+[2024-11-13 11:00:08,504] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731495608437 Record Key:202411130000000001 
+[2024-11-13 15:28:05,111] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731511685081 Record Key:202411130000000002 
+[2024-11-13 15:41:45,954] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731512505939 Record Key:202411130000000003 
+[2024-11-13 15:58:02,530] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731513482512 Record Key:202411130000000004 
+[2024-11-13 16:06:33,781] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731513993767 Record Key:202411130000000005 
+[2024-11-13 16:46:26,932] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731516386914 Record Key:202411130000000006 
+[2024-11-13 22:31:54,422] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1731537114405 Record Key:202411140000000001 
+[2024-11-13 22:31:54,422] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411140000000001 Subscritpion_number:118600412000006 
+[2024-11-13 22:31:54,424] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...118600412000006 
+[2024-11-13 22:31:54,424] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1016800003 
+[2024-11-13 22:31:54,459] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :118600412000006 
+[2024-11-13 22:31:54,469] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :118600412000006 
+[2024-11-13 22:31:54,495] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411140000000001 Subscription_number:118600412000006 
+[2024-11-13 22:31:54,495] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411140000000001 Subscription_number:118600412000006 
+[2024-11-13 22:31:54,529] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-13 22:31:54,529] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-13 22:31:54,532] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411140000000001 Subscription_number:118600412000006 
+[2024-11-13 22:31:54,537] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411140000000001 Subscription_number:118600412000006 
+[2024-11-13 22:31:54,539] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731537114405 Record Key:202411140000000001 
+[2024-11-14 05:50:44,357] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731563444266 Record Key:202411140000000001 
+[2024-11-14 06:10:04,887] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Single Subscriptions: Key :1731564604878 Record Key:202411140000000002 
+[2024-11-14 06:10:04,887] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Subscription :202411140000000002 Subscritpion_number:115100112000035 
+[2024-11-14 06:10:04,889] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing record ...115100112000035 
+[2024-11-14 06:10:04,889] WARN  com.ttsme.ksa.processes.SubscriptionValidator Processing nin:1025360775 
+[2024-11-14 06:10:04,897] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Check Dup Subscription :115100112000035 
+[2024-11-14 06:10:04,899] WARN  com.ttsme.ksa.processes.SubscriptionValidator NFT: Completed Check Dup Subscription :115100112000035 
+[2024-11-14 06:10:04,933] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Validating Compelted :202411140000000002 Subscription_number:115100112000035 
+[2024-11-14 06:10:04,933] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Subs Compelted :202411140000000002 Subscription_number:115100112000035 
+[2024-11-14 06:10:04,978] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Completed Saving Subs 
+[2024-11-14 06:10:04,978] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results 
+[2024-11-14 06:10:04,980] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saving Results :202411140000000002 Subscription_number:115100112000035 
+[2024-11-14 06:10:04,985] WARN  com.ttsme.ksa.processes.fix.FixSingleThreadReader Saved Results :202411140000000002 Subscription_number:115100112000035 
+[2024-11-14 06:10:04,989] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731564604878 Record Key:202411140000000002 
+[2024-11-14 11:00:09,521] WARN  com.ttsme.ksa.processes.fix.FixMultiThread Ending Threads: Key :1731582009453 Record Key:202411140000000003 

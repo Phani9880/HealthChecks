@@ -1,0 +1,33 @@
+---
+- name: Grep errors from a file and store in a local file
+  hosts: localhost
+  gather_facts: no
+  vars:
+    error_pattern: "ERROR"   # Change this to the specific error pattern you want to search for
+    input_file: "/app/apps/background-processors/BulkProcessor/shareinfo.log"  # The log file you want to search
+    output_file: "/home/Phani/output_file.log"  # The local file to store the grep results
+
+  tasks:
+    - name: Grep for errors in the input file
+      command: "grep '{{ error_pattern }}' {{ input_file }}"
+      register: output
+      ignore_errors: yes  # Ignore errors if no match is found
+
+    - name: Check if grep found any errors
+      debug:
+        msg: "Errors found: {{ output.stdout }}"
+      when: output.stdout != ""
+
+    - name: Write the grep output to the local file
+      copy:
+        content: "{{ output.stdout }} \n"
+        dest: "{{ output_file }}"
+        mode: '0644'
+      when: output.stdout != ""
+      delegate_to: localhost
+
+    - name: Notify if no errors were found
+      debug:
+        msg: "No errors found in the file."
+      when: output.stdout == ""
+

@@ -1,0 +1,21 @@
+---
+- name: Check Docker service status
+  hosts: localhost
+  tasks:
+    - name: Check if Docker service is running
+      ansible.builtin.systemd:
+        name: docker
+        state: started
+      register: docker
+      ignore_errors: yes
+
+    - name: Show Docker service status
+      debug:
+        msg: "Docker service is running"
+      when: docker.status.SubState == "running"
+
+    - name: Show Docker service is not running
+      debug:
+        msg: "Docker service is not running"
+      when: docker.status.SubState != "running"
+
